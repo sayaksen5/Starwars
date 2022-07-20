@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import SearchResult from "../../Views/SearchResult";
+import SearchResult from "./SearchResult";
 
 const Searchbar = ({ star }) => {
   const [search, setSearch] = useState("");
