@@ -15,3 +15,5 @@ Scope of Improvements:
 a) Better Styling
 b)Better containerization
 c)Adding of Routers
+d) Pagination features can be improved by giving a next and previous button. This can be achieved by making the API call as per the page count number +-1 depending on the button
+e) The search results can be improved with fetching all the data in a loop inside an useEffect and then storing them in a localstorage
